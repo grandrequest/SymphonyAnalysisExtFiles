@@ -1,0 +1,64 @@
+- ON sustained RGC
+ON alpha
+PixON
+M2
+ON OS horizontal
+ON OS vertical
+ON OS - orientation unknown
+ON DS dorsonasal
+ON DS ventronasal
+ON DS temporal
+ON DS - direction unknown
+ON DS - possible T 7o
+ON bursty
+- ON transient RGC
+ON transient trumpet
+ON transient slide
+ON transient 6st
+F-mini ON
+915
+- OFF sustained RGC
+OFF sustained alpha
+OFF OS - JAMB
+OFF OS - symmetric
+OFF medium sustained
+OFF MS SmRF??
+- OFF transient RGC
+OFF transient alpha
+OFF transient transient
+OFF transient shelf
+F-mini OFF
+- ON-OFF small
+LED
+HD1
+HD2
+UHD
+- ON-OFF DS
+ON-OFF DS temporal
+ON-OFF DS nasal
+ON-OFF DS dorsal
+ON-OFF DS ventral
+ON-OFF DS - direction unknown
+- Other RGC
+ON delayed
+SbC sustained
+SbC bursty (OFF bursty)
+ON-OFF OS
+Motion-sensitive OS
+OFF bursty non-SbC
+ON small OFF large
+M1
+- bad recording
+- unidentified RGC
+- unidentified amacrine
+CRH-1 amacrine
+ON sustained OS amacrine
+Etv1-A amacrine - triphasic
+Etv1-B amacrine - ON spider
+Etv1-C amacrine - spaghetti DS-OS
+Comet amacrine
+nNos-1 amacrine - A1
+nNos-2 amacrine - ON bowtie
+nNos-3 amacrine - A1-like OS
+nNos-4 amacrine - OFF symmetric 
+nNos-5 amacrine - OFF bowtie
